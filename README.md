@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👩‍💻 About Me<br><br>- 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas (Estácio).<br>- 📚 **Especialização:** Pós-graduando em Engenharia de Banco de Dados (Infnet).<br>- 💼 **Experiência Atual:** Técnico em Manutenção de Equipamentos de Informática (SULGIPE)[cite: 5].<br>- 🎯 **Objetivo de Carreira:** Desenvolvedor Fullstack / Back-end[cite: 5].<br>- 💻 **Tech Stack:** C#, Java, Python, JavaScript | React, Spring Boot, ASP.NET Core.<br>- 🗄️ **Bancos de Dados:** SQL Server, Oracle e MySQL[cite: 1, 5].
+### 👩‍💻 About Me<br><br>- 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas (Estácio).<br>- 📚 **Especialização:** Pós-graduando em Engenharia de Banco de Dados (Infnet).<br>- 💼 **Experiência Atual:** Técnico em Manutenção de Equipamentos de Informática (SULGIPE).<br>- 🎯 **Objetivo de Carreira:** Desenvolvedor Fullstack / Back-end.<br>- 💻 **Tech Stack:** C#, Java, Python, JavaScript | React, Spring Boot, ASP.NET Core.<br>- 🗄️ **Bancos de Dados:** SQL Server, Oracle e MySQL.
 
 
 ## 🌐 Socials:
