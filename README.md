@@ -21,7 +21,6 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vita-o&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vita-o&layout=compact&theme=tokyonight&hide_repo=github-readme-stats" alt="Linguagens mais usadas" />
 </p>
 
