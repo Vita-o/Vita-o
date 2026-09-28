@@ -21,8 +21,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vita-o&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vita-o&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vita-o&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vita-o&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
