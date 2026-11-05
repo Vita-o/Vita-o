@@ -22,7 +22,6 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vita-o&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vita-o&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
-
 
