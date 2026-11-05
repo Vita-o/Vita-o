@@ -28,6 +28,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vita-o&color=blue&style=flat-square)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vita-o&color=blue&style=flat-square)
